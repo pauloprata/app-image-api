@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App imagens api</string>
+    <string name="error_message">Erro ao Listar</string>
+</resources>
