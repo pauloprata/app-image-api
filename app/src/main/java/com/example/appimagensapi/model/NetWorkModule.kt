@@ -29,7 +29,7 @@ object NetWorkModule {
                     newRequest
                         .newBuilder()
                         .addHeader("Content-Type", "application/json")
-                        .addHeader("Client-ID", "1ceddedc03a5d71")
+                        .addHeader("Authorization", "Client-ID 1ceddedc03a5d71")
                         .build()
                 )
             }
